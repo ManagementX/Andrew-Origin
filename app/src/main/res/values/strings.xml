@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CardManagementx</string>
+    <string name="board_toolbar_name">看板</string>
+    <string name="add_fab_submenu_board">看板</string>
+    <string name="add_fab_submenu_card">卡片</string>
+    <string name="toolbar_cancel">取消</string>
+    <string name="toolbar_finish">完成</string>
+    <string name="toolbar_create_card">创建卡片</string>
+    <string name="toolbar_create_board">创建看板</string>
+    <string name="add_card_board">看板</string>
+    <string name="add_card_list">列表</string>
+    <string name="add_card_name">卡片名称</string>
+    <string name="add_card_description">描述</string>
+    <string name="add_board_name">看板名称</string>
+    <string name="add_board_team">团队</string>
+
+</resources>
