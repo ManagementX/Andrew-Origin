@@ -28,6 +28,7 @@
     </com.rengwuxian.materialedittext.MaterialEditText>
 
     <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/et_psw"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
@@ -72,7 +73,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="cancel"
-            android:textSize="10dp"
+            android:textSize="12dp"
             android:layout_marginLeft="30dp"
             android:layout_marginTop="5dp"
             style="@style/Widget.MaterialComponents.Button.TextButton"/>
@@ -82,8 +83,9 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             android:layout_marginRight="10dp"
-            style="@style/Widget.MaterialComponents.Button.Icon"
+            android:background="#0056d3"
+            style="@style/Widget.MaterialComponents.Button.TextButton.Dialog.Flush"
             android:text="继续"
-            android:textSize="13dp"/>
+            android:textSize="15dp"/>
     </LinearLayout>
 </LinearLayout>
